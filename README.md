@@ -1,58 +1,54 @@
-# Strata Reloaded
+# YellowBlue theme
 
-Simple, clean personal blogging template for Jekyll based on Strata by HTML5 UP.
+## Yellowblue: A free responsive Jekyll theme
 
-![Strata Reloaded template screenshot](images/_screenshot.png)
+Yellowblue is a clean, modern, customizable, responsive blog theme, built for Jekyll, the most popular static site generator.
 
-## Features
+### [Demo](http://chalatz.github.io/yellowblue/)
 
-* Parallax background effect
-* Lightbox gallery
-* Pre-styled components
-* Blog with pagination
-* Configurable footer
-* Optimized for editing in [CloudCannon](http://cloudcannon.com/)
-* RSS/Atom feed
-* SEO tags
-* Google Analytics
-* Webmaster Verification
+### Features
 
-## Develop
+- Clean and modern design
+- Fully responsive, built using the 'Mobile First' technique
+- No installation needed. Just download, extract and you're good to go
+- Custom and simple grid system
+- Rich and stylish Pattern Library
+- 451 SVG icons (from [Icomoon](https://icomoon.io))
+- Syntax highlighting (with [Prism](http://prismjs.com) )
+- Subtle animations
+- Categories (no extra plugins required)
+- Tags (no extra plugins required)
+- Hero images
+- Pagination
+- Comments (enable / disable them at your own will, globally or per post) - from [Disqus](https://disqus.com/)
+- Contact form (with [Formspree](https://formspree.io/))
+- Archives page (organized by publishing date)
+- Custom 404 page
+- Detailed and thorough documentation
+- Detailed auto-generated sitemap.xml
+- Real world articles
+- Distraction-free reading. The sidebar goes to the bottom while on posts and pages.
+- 4 additional color scheme presets. Apply them by changing a single word in the code.
+- By the power of Sass variables, you can apply your own color schemes.
+- Github Pages ready. No extra plugins are installed
 
-1. Add your site and author details in `_config.yml`.
-2. Add your Google Analytics key to `_config.yml`.
-3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
+#### [Read the documentation online](http://chalatz.github.io/yellowblue-docs/)
 
-## Develop
+### Credits
 
-Urban was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
+Yellowblue uses some excellent open source tools, libraries and assets, as well as a couple of services. Thank you all!
 
-Install the dependencies with [Bundler](http://bundler.io/):
+- Sample images: [Gratisography](http://www.gratisography.com/)
+- Icons: [Icomoon](https://icomoon.io/)
+- Font: Open Sans from [Google Fonts](https://www.google.com/fonts)
+- [normalize.css](https://necolas.github.io/normalize.css/)
+- [Pure.css](http://purecss.io/)
+- [Animate.css](https://daneden.github.io/animate.css/)
+- [jQuery](https://jquery.com/)
+- [Fluidbox](https://github.com/terrymun/Fluidbox)
+- [Prism](http://prismjs.com/)
+- [scrollReveal.js](http://scrollrevealjs.org/)
+- [Formspree](https://formspree.io/)
+- [Disqus](https://disqus.com/)
 
-~~~bash
-$ bundle install
-~~~
-
-Run `jekyll` commands through Bundler to ensure you're using the right versions:
-
-~~~bash
-$ bundle exec jekyll serve
-~~~
-
-## Editing
-
-Strata Reloaded is already optimized for adding, updating and removing posts and footer elements in [CloudCannon](https://app.cloudcannon.com/).
-
-### Posts
-
-* Add, update or remove a post in the *Posts* collection.
-* Change the defaults when new posts are created in `_posts/_defaults.md`.
-
-### Footer
-
-* Exposed as a data file to give clients better access.
-* Set in the *Data* / *Footer* section.
-
-## License
-
-Free for personal and commercial use under the CCA 3.0 license. See LICENSE file for additional information and terms of use. This theme was adapted from Strata by HTML5 UP for use with [CloudCannon](http://cloudcannon.com) by [Comfusion LLC](http://comfusionllc.com).
+Made by [Christos Alatzas](https://twitter.com/chalatz)
